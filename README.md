@@ -1,0 +1,2 @@
+# LearningPurpose
+detail code learning
