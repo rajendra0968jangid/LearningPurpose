@@ -358,3 +358,7 @@
 // weakMap.set(symbol, 'rajendra');
 
 // console.log(weakMap.get(symbol)); // Output: 'value'
+
+// ################################################################
+// console.log(typeof typeof 1) //output: string
+
