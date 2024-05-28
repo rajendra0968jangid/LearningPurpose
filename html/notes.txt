@@ -1,0 +1,91 @@
+<!-- day 3 -->
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+=> way of css uses in html
+inline
+internal
+external
+
+=>common css of html
+color: blue;
+font-family: verdana;
+font-size: 300%;
+border: 2px solid powderblue;
+padding: 30px;
+margin: 50px;
+text-decoration: none;
+text-align: left;
+
+
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+table:-
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+table {
+  border-spacing: 30px;
+}
+
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+td:nth-child(even), th:nth-child(even) {
+  background-color: #D6EEEE;
+}
+
+
+
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
+}
+
+
+tr:hover {background-color: #D6EEEE;}
+
+
+borders:-
+dotted     
+dashed     
+solid     
+double     
+groove     
+ridge     
+inset     
+outset     
+none     
+hidden
+
+<table style="width:100%">
+
+horizatal table
+vertical table
